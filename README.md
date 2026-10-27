@@ -30,7 +30,6 @@
 ---- | ----
 扫一扫 | dingtalk://dingtalkclient/page/scan
 考勤打卡 | dingtalk://dingtalkclient/page/link?url=https://attend.dingtalk.com/attend/index.html 
-
 考勤打卡（打开指定公司） | dingtalk://dingtalkclient/page/link?url=https://attend.dingtalk.com/attend/index.html?corpId=xxxxxxxxxxx&dd_enable_replace=true
 
 #### 飞书
